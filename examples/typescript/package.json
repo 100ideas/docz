@@ -1,20 +1,20 @@
 {
   "name": "docz-example-typescript",
-  "version": "1.0.0-rc.3",
+  "version": "1.0.0-rc.5",
   "license": "MIT",
   "scripts": {
     "dev": "docz dev",
     "build": "docz build"
   },
   "dependencies": {
-    "docz": "^1.0.0-rc.3",
-    "docz-core": "^1.0.0-rc.3",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "styled-components": "^4.1.3"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
-    "@types/react": "^16.8.8",
-    "@types/react-dom": "^16.8.2"
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "docz": "1.0.0-rc.5",
+    "docz-theme-default": "1.0.0-rc.5"
   }
 }
